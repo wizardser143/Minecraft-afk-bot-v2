@@ -2,7 +2,7 @@
   "server": {
     "host": "369fam.aternos.me", 
     "port": 25163,
-    "version": "1.26.43.1"
+    "version": "1.21.4"
   },
   "bot": {
     "username": "aurora_assistant",
